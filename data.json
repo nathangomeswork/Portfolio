@@ -1,0 +1,390 @@
+{
+  "identite": {
+    "photo": "/assets/images/photo.png",
+    "prenom": "Léo",
+    "nom": "Boregard",
+    "titre": "Digital Maker — Web, Data & Com'",
+    "accroche": "Je conçois et pilote des expériences web de A à Z — architecture, contenu, SEO, motion. À l'aise autant dans un CMS que dans un éditeur de code.",
+    "localisation": "Orléans, Centre-Val de Loire",
+    "disponibilite": "Ouvert aux opportunités CDI",
+    "email": "leoboregard@gmail.com",
+    "telephone": "06 05 26 72 72",
+    "linkedin": "https://linkedin.com/in/leoboregard",
+    "github": "https://github.com/nate140",
+    "bio": "Polyvalent et orienté résultats, j'évolue à l'intersection du marketing, de la communication et du web depuis 2020. De la refonte d'un intranet de 200 pages à la gestion de l'affichage dynamique sur 87 magasins — j'aime les défis transversaux, là où la com' rejoint le concret.",
+    "bio2": "Diplômé d'un Master Marketing du Produit et des Solutions Innovantes (IAE Orléans, spécialité digital), je maîtrise autant les outils créatifs que les environnements CMS et les logiques de pilotage de projet."
+  },
+  "competences": [
+    {
+      "categorie": "Web & Digital",
+      "icone": "⚡",
+      "items": [
+        "WordPress",
+        "SharePoint",
+        "SEO / Yoast",
+        "Webmastering",
+        "Google Analytics",
+        "Mailchimp"
+      ]
+    },
+    {
+      "categorie": "Création & Design",
+      "icone": "✦",
+      "items": [
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Premiere Pro",
+        "After Effects",
+        "XD"
+      ]
+    },
+    {
+      "categorie": "Communication",
+      "icone": "◈",
+      "items": [
+        "E-mailing",
+        "Newsletter",
+        "Affichage dynamique",
+        "Community Management",
+        "Rédaction web",
+        "Campagnes d'affichage"
+      ]
+    },
+    {
+      "categorie": "Pilotage",
+      "icone": "▸",
+      "items": [
+        "Reporting",
+        "Animation d'ateliers",
+        "Gestion de projet",
+        "Formation collaborateurs",
+        "Coordination équipes"
+      ]
+    }
+  ],
+  "langues": [
+    {
+      "langue": "Anglais",
+      "niveau": "Courant — C1",
+      "detail": "Certifié EF SET C1 · équivalent TOEIC 945+",
+      "code": "C1",
+      "certificat_url": "https://www.efset.org/cert/XXXXXXXX"
+    },
+    {
+      "langue": "Portugais",
+      "niveau": "Notions",
+      "detail": "Niveau A1",
+      "code": "A1",
+      "certificat_url": ""
+    },
+    {
+      "langue": "Espagnol",
+      "niveau": "Notions",
+      "detail": "Niveau A1",
+      "code": "A1",
+      "certificat_url": ""
+    }
+  ],
+  "formation": [
+    {
+      "diplome": "Master Marketing du Produit et des Solutions Innovantes",
+      "specialite": "Spécialité Digital",
+      "etablissement": "IAE Orléans",
+      "annee": "2018 — 2020",
+      "url": "https://iae.univ-orleans.fr"
+    },
+    {
+      "diplome": "Licence Gestion Marketing",
+      "specialite": "",
+      "etablissement": "Université d'Orléans",
+      "annee": "2015 — 2018",
+      "url": "https://www.univ-orleans.fr"
+    }
+  ],
+  "experiences": [
+    {
+      "slug": "cen-2024",
+      "poste": "Chargé de mission Web",
+      "entreprise": "Conservatoires d'Espaces Naturels",
+      "periode": "2024 — 2025",
+      "duree": "1 an 6 mois",
+      "type": "Mission",
+      "tags": [
+        "WordPress",
+        "SEO",
+        "Rédaction web"
+      ],
+      "couleur": "#2D5016",
+      "resume": "Refonte intégrale de deux sites web pour valoriser les espaces naturels de la région Centre.",
+      "missions": [
+        "Refonte intégrale du site Loire Nature — architecture, design, contenus",
+        "Pilotage du site de la FCEN en référent unique",
+        "Optimisation de l'architecture et rédaction de contenus alignés sur la ligne éditoriale",
+        "Création et intégration de contenus variés dans WordPress, alimentation de la GED",
+        "Gestion du SEO des pages sous Yoast"
+      ],
+      "impact": "Deux sites entièrement refondus en autonomie, expérience utilisateur repensée de A à Z.",
+      "logo": "/assets/images/logos/cen.png",
+      "photos": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "slug": "bpri-2023",
+      "poste": "Chargé de projet Web",
+      "entreprise": "Banque Populaire Rives de Paris",
+      "periode": "2023",
+      "duree": "7 mois",
+      "type": "CDD",
+      "tags": [
+        "SharePoint",
+        "Intranet",
+        "Formation"
+      ],
+      "couleur": "#003189",
+      "resume": "Reconstruction complète d'un intranet de 200 pages pour 70 agences, piloté en référent unique.",
+      "missions": [
+        "Refonte de l'intranet sous SharePoint 2016 — environ 200 pages reconstruites",
+        "Référent unique pour la création et mise à jour de contenu web sur l'intranet",
+        "Animation d'ateliers avec les différents métiers pour recueillir les besoins",
+        "Création d'une arborescence intuitive et accessible",
+        "Co-création d'une newsletter d'acculturation bancaire destinée aux collaborateurs",
+        "Mise à jour de contenu sur le site de la BPRI sous WordPress"
+      ],
+      "impact": "Intranet de 200 pages reconstruit en 7 mois, adoption mesurée auprès des collaborateurs.",
+      "logo": "/assets/images/logos/bpri.png",
+      "photos": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "slug": "pointp-2022",
+      "poste": "Chargé de Marketing Digital",
+      "entreprise": "POINT.P Centre",
+      "periode": "2022",
+      "duree": "1 an",
+      "type": "CDI",
+      "tags": [
+        "Marketing",
+        "Formation",
+        "Affichage"
+      ],
+      "couleur": "#E05A00",
+      "resume": "Référent digital pour 70 agences de la région Centre — formation, campagnes, community management.",
+      "missions": [
+        "Formation et suivi des collaborateurs en magasin sur les outils digitaux et l'e-commerce",
+        "Référent digital pour les 70 agences de la région Centre",
+        "Co-organisation du PAC et suivi des opérations commerciales et événements",
+        "Création de supports de communication — campagnes d'affichage sur la région Centre",
+        "Community Management et rédaction newsletter"
+      ],
+      "impact": "Référent digital pour 70 agences, interface entre le terrain et la direction marketing.",
+      "logo": "/assets/images/logos/pointp.png",
+      "photos": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "slug": "capalliance-2021",
+      "poste": "Chargé de Communication Digitale",
+      "entreprise": "Cap' Alliance",
+      "periode": "2021",
+      "duree": "8 mois",
+      "type": "CDD",
+      "tags": [
+        "Motion design",
+        "Affichage dynamique",
+        "Vidéo"
+      ],
+      "couleur": "#C41E3A",
+      "resume": "Pilotage de l'affichage dynamique sur 87 magasins et production de contenus vidéo et print.",
+      "missions": [
+        "Responsable du service d'affichage dynamique sur les 87 magasins nationaux",
+        "Création et mise à jour des contenus diffusés en temps réel",
+        "Design d'interfaces pour modernisation du parc d'écrans",
+        "Mise en place d'outils de suivi et d'analyse",
+        "Montage vidéo sous Premiere Pro et After Effects",
+        "Création de supports de communication — catalogues, print"
+      ],
+      "impact": "Gestion d'un réseau de 87 écrans en temps réel à l'échelle nationale.",
+      "logo": "/assets/images/logos/capalliance.png",
+      "photos": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "slug": "groupeup-2020",
+      "poste": "Chargé de Communication",
+      "entreprise": "Groupe Up (Chèque Déjeuner)",
+      "periode": "2020",
+      "duree": "1 an",
+      "type": "Alternance",
+      "tags": [
+        "Branding",
+        "E-mailing",
+        "WordPress"
+      ],
+      "couleur": "#6B21A8",
+      "resume": "Refonte des outils de communication dans le cadre d'une nouvelle identité de marque nationale.",
+      "missions": [
+        "Refonte des outils de communication avec nouvelle identité de marque",
+        "Conception et envoi de campagnes e-mailings",
+        "Création de pages web sous WordPress"
+      ],
+      "impact": "Première expérience en entreprise nationale — contribution à la refonte d'une marque historique.",
+      "logo": "/assets/images/logos/groupeup.png",
+      "photos": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "projets": [
+    {
+      "slug": "fluent",
+      "titre": "Fluent",
+      "sous_titre": "Aiguise ton anglais",
+      "tags": [
+        "Vibe Coding",
+        "App web",
+        "Éducation"
+      ],
+      "couleur": "#0F3A5C",
+      "annee": "2025",
+      "image": "",
+      "resume": "Une app de révision de vocabulaire anglais pensée pour les micro-sessions — flashcards, QCM, dictée, sprint. Test de placement intelligent et level-up automatique.",
+      "description": "Fluent est une application web de révision de vocabulaire anglais conçue pour des sessions courtes et régulières. Elle embarque 6 modes de jeu distincts (Flashcard, QCM, Dictée, Saisie libre, Sprint, Retournement), un test de placement de 40 questions pour calibrer le niveau de départ, et un système de progression automatique qui déverrouille les niveaux suivants à 90% de réussite. Zéro pub, sans collecte de données.",
+      "github_url": "https://github.com/nate140",
+      "demo_url": "https://profound-lamington-287866.netlify.app",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Netlify"
+      ],
+      "points_cles": [
+        "6 modes de jeu pour ne jamais tomber dans la routine",
+        "Test de placement intelligent sur 40 questions",
+        "Level-up automatique à 90% de réussite",
+        "Fonctionne sans compte — progression sauvegardée en local"
+      ]
+    },
+    {
+      "slug": "300-films",
+      "titre": "300 films, 1 profil",
+      "sous_titre": "Découvre ton profil de spectateur",
+      "tags": [
+        "Vibe Coding",
+        "Cinéma",
+        "Data"
+      ],
+      "couleur": "#1A0A2E",
+      "annee": "2025",
+      "image": "",
+      "resume": "Coche les films vus parmi les 300 plus populaires (IMDb + Letterboxd) et révèle ton profil : genres, pays, décennies, réalisateur et acteur fétiches.",
+      "description": "Une web app qui croise les tops IMDb et Letterboxd des 6 dernières décennies pour établir une sélection de 300 films de référence. L'utilisateur coche les films vus, et l'algorithme génère un profil de spectateur détaillé : genres favoris, pays, décennies, réalisateur fétiche, acteur fétiche. Sans compte, sans email.",
+      "github_url": "https://github.com/nate140/300-films",
+      "demo_url": "https://nate140.github.io/300-films/",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "GitHub Pages"
+      ],
+      "points_cles": [
+        "Sélection de 300 films croisés IMDb × Letterboxd",
+        "Algorithme de profilage sur 5 dimensions (genres, pays, décennies, réal, acteur)",
+        "Aucun compte requis — zéro friction",
+        "Couvre 6 décennies de cinéma"
+      ]
+    },
+    {
+      "slug": "pokemon-picker",
+      "titre": "Pokémon Picker",
+      "sous_titre": "Crée ton équipe idéale",
+      "tags": [
+        "Vibe Coding",
+        "Jeu",
+        "Algo"
+      ],
+      "couleur": "#1A2E0A",
+      "annee": "2025",
+      "image": "",
+      "resume": "Un hommage aux 30 ans de Pokémon : un algorithme de sélection sur 649 créatures (Kanto → Unova) pour révéler ton équipe idéale et ton Hall of Fame.",
+      "description": "Mini-jeu hommage aux 30 ans de la franchise Pokémon. Un algorithme de tournoi par élimination parcourt les 649 Pokémon des générations Kanto à Unova et te fait choisir tes préférés en duel. Le processus affine progressivement un top 12, puis un Hall of Fame de 6. Pensé pour les fans qui veulent enfin trancher les grands débats.",
+      "github_url": "https://github.com/nate140/Quels-sont-tes-Pok-mon-pr-f-r-s-",
+      "demo_url": "https://nate140.github.io/Quels-sont-tes-Pok-mon-pr-f-r-s-/",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PokéAPI",
+        "GitHub Pages"
+      ],
+      "points_cles": [
+        "649 Pokémon des 5 premières générations",
+        "Algorithme de tournoi par élimination progressive",
+        "Génère un top 12 puis un Hall of Fame de 6",
+        "Sauvegarde locale pour reprendre où on en était"
+      ]
+    },
+    {
+      "slug": "projet-4",
+      "titre": "Projet à venir",
+      "sous_titre": "Titre à renseigner",
+      "tags": [
+        "Vibe Coding",
+        "GitHub"
+      ],
+      "couleur": "#1A5C5C",
+      "annee": "2025",
+      "image": "",
+      "resume": "Description à renseigner dans data.json.",
+      "description": "Détail complet à renseigner.",
+      "github_url": "https://github.com/nate140",
+      "demo_url": "",
+      "stack": [
+        "À définir"
+      ],
+      "points_cles": [
+        "Point clé 1",
+        "Point clé 2",
+        "Point clé 3"
+      ]
+    },
+    {
+      "slug": "projet-5",
+      "titre": "Projet à venir",
+      "sous_titre": "Titre à renseigner",
+      "tags": [
+        "Vibe Coding",
+        "GitHub"
+      ],
+      "couleur": "#4A6B1A",
+      "annee": "2025",
+      "image": "",
+      "resume": "Description à renseigner dans data.json.",
+      "description": "Détail complet à renseigner.",
+      "github_url": "https://github.com/nate140",
+      "demo_url": "",
+      "stack": [
+        "À définir"
+      ],
+      "points_cles": [
+        "Point clé 1",
+        "Point clé 2",
+        "Point clé 3"
+      ]
+    }
+  ]
+}
