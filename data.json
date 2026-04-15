@@ -1,6 +1,6 @@
 {
   "identite": {
-    "photo": "/assets/images/photo.png",
+    "photo": "https://nathangomeswork.github.io/Portfolio/assets/images/photo.png",
     "prenom": "Nathan",
     "nom": "Gomes",
     "titre": "Digital Maker — Web, Data & Com'",
@@ -155,7 +155,7 @@
         "Mise à jour de contenu sur le site de la BPRI sous WordPress"
       ],
       "impact": "Intranet de 200 pages reconstruit en 7 mois, adoption mesurée auprès des collaborateurs.",
-      "logo": "/assets/images/logos/bpri.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/bpri.png",
       "photos": [
         "",
         "",
@@ -184,7 +184,7 @@
         "Community Management et rédaction newsletter"
       ],
       "impact": "Référent digital pour 70 agences, interface entre le terrain et la direction marketing.",
-      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/cen.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/pointp.png",
       "photos": [
         "",
         "",
@@ -214,7 +214,7 @@
         "Création de supports de communication — catalogues, print"
       ],
       "impact": "Gestion d'un réseau de 87 écrans en temps réel à l'échelle nationale.",
-      "logo": "/assets/images/logos/capalliance.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/capalliance.png",
       "photos": [
         "",
         "",
@@ -241,7 +241,7 @@
         "Création de pages web sous WordPress"
       ],
       "impact": "Première expérience en entreprise nationale — contribution à la refonte d'une marque historique.",
-      "logo": "/assets/images/logos/groupeup.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/groupeup.png",
       "photos": [
         "",
         "",
