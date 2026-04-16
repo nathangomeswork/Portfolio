@@ -337,54 +337,6 @@
         "Génère un top 12 puis un Hall of Fame de 6",
         "Sauvegarde locale pour reprendre où on en était"
       ]
-    },
-    {
-      "slug": "projet-4",
-      "titre": "Projet à venir",
-      "sous_titre": "Titre à renseigner",
-      "tags": [
-        "Vibe Coding",
-        "GitHub"
-      ],
-      "couleur": "#1A5C5C",
-      "annee": "2025",
-      "image": "",
-      "resume": "Description à renseigner dans data.json.",
-      "description": "Détail complet à renseigner.",
-      "github_url": "https://github.com/nate140",
-      "demo_url": "",
-      "stack": [
-        "À définir"
-      ],
-      "points_cles": [
-        "Point clé 1",
-        "Point clé 2",
-        "Point clé 3"
-      ]
-    },
-    {
-      "slug": "projet-5",
-      "titre": "Projet à venir",
-      "sous_titre": "Titre à renseigner",
-      "tags": [
-        "Vibe Coding",
-        "GitHub"
-      ],
-      "couleur": "#4A6B1A",
-      "annee": "2025",
-      "image": "",
-      "resume": "Description à renseigner dans data.json.",
-      "description": "Détail complet à renseigner.",
-      "github_url": "https://github.com/nate140",
-      "demo_url": "",
-      "stack": [
-        "À définir"
-      ],
-      "points_cles": [
-        "Point clé 1",
-        "Point clé 2",
-        "Point clé 3"
-      ]
     }
   ]
 }
