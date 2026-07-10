@@ -292,9 +292,9 @@
       "annee": "2025",
       "image": "https://nathangomeswork.github.io/Portfolio/assets/images/projets/fluent.png",
       "resume": "Une app de révision de vocabulaire portugais pensée pour les micro-sessions — flashcards, QCM, dictée, sprint. Test de placement intelligent et level-up automatique.",
-      "description": "Fluent est une application web de révision de vocabulaire anglais conçue pour des sessions courtes et régulières. Elle embarque 6 modes de jeu distincts (Flashcard, QCM, Dictée, Saisie libre, Sprint, Retournement), un test de placement de 40 questions pour calibrer le niveau de départ, et un système de progression automatique qui déverrouille les niveaux suivants à 90% de réussite. Zéro pub, sans collecte de données.",
+      "description": "Fluente est une application web de révision de vocabulaire portugais conçue pour des sessions courtes et régulières. Elle embarque 6 modes de jeu distincts (Flashcard, QCM, Dictée, Saisie libre, Sprint, Retournement), un test de placement de 40 questions pour calibrer le niveau de départ, et un système de progression automatique qui déverrouille les niveaux suivants à 90% de réussite. Zéro pub, sans collecte de données.",
       "github_url": "https://github.com/nate140",
-      "demo_url": "https://profound-lamington-287866.netlify.app",
+      "demo_url": "https://nate140.github.io/Fluent---Portugais-/",
       "stack": [
         "HTML",
         "CSS",
