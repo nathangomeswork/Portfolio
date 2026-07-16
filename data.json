@@ -1,15 +1,15 @@
 {
   "identite": {
-    "photo": "/assets/images/photo.png",
-    "prenom": "Léo",
-    "nom": "Boregard",
+    "photo": "https://nathangomeswork.github.io/Portfolio/assets/images/photo.png",
+    "prenom": "Nathan",
+    "nom": "Gomes",
     "titre": "Digital Maker — Web, Data & Com'",
-    "accroche": "Je conçois et pilote des expériences web de A à Z — architecture, contenu, SEO, motion. À l'aise autant dans un CMS que dans un éditeur de code.",
-    "localisation": "Orléans, Centre-Val de Loire",
-    "disponibilite": "Ouvert aux opportunités CDI",
-    "email": "leoboregard@gmail.com",
-    "telephone": "06 05 26 72 72",
-    "linkedin": "https://linkedin.com/in/leoboregard",
+    "accroche": "Je conçois et pilote des expériences web de A à Z — architecture, contenu, SEO. Polyvalent et orienté résultats, j'évolue à l'intersection du marketing, de la communication et du web depuis 2019. De la refonte de votre site web à l'animation de formation en passant par la gestion de reporting, j'aime les défis transversaux, là où la com' rejoint le concret.",
+    "localisation": "Orléans / Paris / Lausanne",
+    "disponibilite": "Ouvert aux opportunités CDI/CDD",
+    "email": "nathangmes@gmail.com",
+    "telephone": "06 05 26 19 14",
+    "linkedin": "www.linkedin.com/in/nathan-gomes-2a9a0b155",
     "github": "https://github.com/nate140",
     "bio": "Polyvalent et orienté résultats, j'évolue à l'intersection du marketing, de la communication et du web depuis 2020. De la refonte d'un intranet de 200 pages à la gestion de l'affichage dynamique sur 87 magasins — j'aime les défis transversaux, là où la com' rejoint le concret.",
     "bio2": "Diplômé d'un Master Marketing du Produit et des Solutions Innovantes (IAE Orléans, spécialité digital), je maîtrise autant les outils créatifs que les environnements CMS et les logiques de pilotage de projet."
@@ -67,9 +67,9 @@
     {
       "langue": "Anglais",
       "niveau": "Courant — C1",
-      "detail": "Certifié EF SET C1 · équivalent TOEIC 945+",
+      "detail": "Certifié EF SET C1 · équivalent TOEIC +900",
       "code": "C1",
-      "certificat_url": "https://www.efset.org/cert/XXXXXXXX"
+      "certificat_url": "https://cert.efset.org/fr/EVhWYa"
     },
     {
       "langue": "Portugais",
@@ -109,7 +109,7 @@
       "entreprise": "Conservatoires d'Espaces Naturels",
       "periode": "2024 — 2025",
       "duree": "1 an 6 mois",
-      "type": "Mission",
+      "type": "",
       "tags": [
         "WordPress",
         "SEO",
@@ -125,7 +125,7 @@
         "Gestion du SEO des pages sous Yoast"
       ],
       "impact": "Deux sites entièrement refondus en autonomie, expérience utilisateur repensée de A à Z.",
-      "logo": "/assets/images/logos/cen.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/cen.png",
       "photos": [
         "",
         "",
@@ -138,7 +138,7 @@
       "entreprise": "Banque Populaire Rives de Paris",
       "periode": "2023",
       "duree": "7 mois",
-      "type": "CDD",
+      "type": "",
       "tags": [
         "SharePoint",
         "Intranet",
@@ -155,7 +155,7 @@
         "Mise à jour de contenu sur le site de la BPRI sous WordPress"
       ],
       "impact": "Intranet de 200 pages reconstruit en 7 mois, adoption mesurée auprès des collaborateurs.",
-      "logo": "/assets/images/logos/bpri.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/bpri.png",
       "photos": [
         "",
         "",
@@ -168,7 +168,7 @@
       "entreprise": "POINT.P Centre",
       "periode": "2022",
       "duree": "1 an",
-      "type": "CDI",
+      "type": "",
       "tags": [
         "Marketing",
         "Formation",
@@ -184,7 +184,7 @@
         "Community Management et rédaction newsletter"
       ],
       "impact": "Référent digital pour 70 agences, interface entre le terrain et la direction marketing.",
-      "logo": "/assets/images/logos/pointp.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/pointp.png",
       "photos": [
         "",
         "",
@@ -197,7 +197,7 @@
       "entreprise": "Cap' Alliance",
       "periode": "2021",
       "duree": "8 mois",
-      "type": "CDD",
+      "type": "",
       "tags": [
         "Motion design",
         "Affichage dynamique",
@@ -214,7 +214,7 @@
         "Création de supports de communication — catalogues, print"
       ],
       "impact": "Gestion d'un réseau de 87 écrans en temps réel à l'échelle nationale.",
-      "logo": "/assets/images/logos/capalliance.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/capalliance.png",
       "photos": [
         "",
         "",
@@ -241,7 +241,7 @@
         "Création de pages web sous WordPress"
       ],
       "impact": "Première expérience en entreprise nationale — contribution à la refonte d'une marque historique.",
-      "logo": "/assets/images/logos/groupeup.png",
+      "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/groupeup.png",
       "photos": [
         "",
         "",
@@ -261,11 +261,40 @@
       ],
       "couleur": "#0F3A5C",
       "annee": "2025",
-      "image": "",
+      "image": "https://nathangomeswork.github.io/Portfolio/assets/images/projets/fluent.png",
       "resume": "Une app de révision de vocabulaire anglais pensée pour les micro-sessions — flashcards, QCM, dictée, sprint. Test de placement intelligent et level-up automatique.",
       "description": "Fluent est une application web de révision de vocabulaire anglais conçue pour des sessions courtes et régulières. Elle embarque 6 modes de jeu distincts (Flashcard, QCM, Dictée, Saisie libre, Sprint, Retournement), un test de placement de 40 questions pour calibrer le niveau de départ, et un système de progression automatique qui déverrouille les niveaux suivants à 90% de réussite. Zéro pub, sans collecte de données.",
       "github_url": "https://github.com/nate140",
       "demo_url": "https://profound-lamington-287866.netlify.app",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Netlify"
+      ],
+      "points_cles": [
+        "6 modes de jeu pour ne jamais tomber dans la routine",
+        "Test de placement intelligent sur 40 questions",
+        "Level-up automatique à 90% de réussite",
+        "Fonctionne sans compte — progression sauvegardée en local"
+      ]
+    },
+     {
+      "slug": "fluente",
+      "titre": "Fluente",
+      "sous_titre": "Aiguise ton Portugais",
+      "tags": [
+        "Vibe Coding",
+        "App web",
+        "Éducation"
+      ],
+      "couleur": "#0F3A5C",
+      "annee": "2025",
+      "image": "https://nathangomeswork.github.io/Portfolio/assets/images/projets/fluent.png",
+      "resume": "Une app de révision de vocabulaire portugais pensée pour les micro-sessions — flashcards, QCM, dictée, sprint. Test de placement intelligent et level-up automatique.",
+      "description": "Fluente est une application web de révision de vocabulaire portugais conçue pour des sessions courtes et régulières. Elle embarque 6 modes de jeu distincts (Flashcard, QCM, Dictée, Saisie libre, Sprint, Retournement), un test de placement de 40 questions pour calibrer le niveau de départ, et un système de progression automatique qui déverrouille les niveaux suivants à 90% de réussite. Zéro pub, sans collecte de données.",
+      "github_url": "https://github.com/nate140",
+      "demo_url": "https://nate140.github.io/Fluent---Portugais-/",
       "stack": [
         "HTML",
         "CSS",
@@ -290,7 +319,7 @@
       ],
       "couleur": "#1A0A2E",
       "annee": "2025",
-      "image": "",
+      "image": "https://nathangomeswork.github.io/Portfolio/assets/images/projets/300films.png",
       "resume": "Coche les films vus parmi les 300 plus populaires (IMDb + Letterboxd) et révèle ton profil : genres, pays, décennies, réalisateur et acteur fétiches.",
       "description": "Une web app qui croise les tops IMDb et Letterboxd des 6 dernières décennies pour établir une sélection de 300 films de référence. L'utilisateur coche les films vus, et l'algorithme génère un profil de spectateur détaillé : genres favoris, pays, décennies, réalisateur fétiche, acteur fétiche. Sans compte, sans email.",
       "github_url": "https://github.com/nate140/300-films",
@@ -319,7 +348,7 @@
       ],
       "couleur": "#1A2E0A",
       "annee": "2025",
-      "image": "",
+      "image": "https://nathangomeswork.github.io/Portfolio/assets/images/projets/pokemon-picker.png",
       "resume": "Un hommage aux 30 ans de Pokémon : un algorithme de sélection sur 649 créatures (Kanto → Unova) pour révéler ton équipe idéale et ton Hall of Fame.",
       "description": "Mini-jeu hommage aux 30 ans de la franchise Pokémon. Un algorithme de tournoi par élimination parcourt les 649 Pokémon des générations Kanto à Unova et te fait choisir tes préférés en duel. Le processus affine progressivement un top 12, puis un Hall of Fame de 6. Pensé pour les fans qui veulent enfin trancher les grands débats.",
       "github_url": "https://github.com/nate140/Quels-sont-tes-Pok-mon-pr-f-r-s-",
@@ -336,54 +365,6 @@
         "Algorithme de tournoi par élimination progressive",
         "Génère un top 12 puis un Hall of Fame de 6",
         "Sauvegarde locale pour reprendre où on en était"
-      ]
-    },
-    {
-      "slug": "projet-4",
-      "titre": "Projet à venir",
-      "sous_titre": "Titre à renseigner",
-      "tags": [
-        "Vibe Coding",
-        "GitHub"
-      ],
-      "couleur": "#1A5C5C",
-      "annee": "2025",
-      "image": "",
-      "resume": "Description à renseigner dans data.json.",
-      "description": "Détail complet à renseigner.",
-      "github_url": "https://github.com/nate140",
-      "demo_url": "",
-      "stack": [
-        "À définir"
-      ],
-      "points_cles": [
-        "Point clé 1",
-        "Point clé 2",
-        "Point clé 3"
-      ]
-    },
-    {
-      "slug": "projet-5",
-      "titre": "Projet à venir",
-      "sous_titre": "Titre à renseigner",
-      "tags": [
-        "Vibe Coding",
-        "GitHub"
-      ],
-      "couleur": "#4A6B1A",
-      "annee": "2025",
-      "image": "",
-      "resume": "Description à renseigner dans data.json.",
-      "description": "Détail complet à renseigner.",
-      "github_url": "https://github.com/nate140",
-      "demo_url": "",
-      "stack": [
-        "À définir"
-      ],
-      "points_cles": [
-        "Point clé 1",
-        "Point clé 2",
-        "Point clé 3"
       ]
     }
   ]
