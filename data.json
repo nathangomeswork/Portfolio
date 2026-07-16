@@ -1,3 +1,4 @@
+photos
 {
   "identite": {
     "photo": "https://nathangomeswork.github.io/Portfolio/assets/images/photo.png",
@@ -126,11 +127,6 @@
       ],
       "impact": "Deux sites entièrement refondus en autonomie, expérience utilisateur repensée de A à Z.",
       "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/cen.png",
-      "photos": [
-        "",
-        "",
-        ""
-      ]
     },
     {
       "slug": "bpri-2023",
@@ -156,11 +152,6 @@
       ],
       "impact": "Intranet de 200 pages reconstruit en 7 mois, adoption mesurée auprès des collaborateurs.",
       "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/bpri.png",
-      "photos": [
-        "",
-        "",
-        ""
-      ]
     },
     {
       "slug": "pointp-2022",
@@ -185,11 +176,6 @@
       ],
       "impact": "Référent digital pour 70 agences, interface entre le terrain et la direction marketing.",
       "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/pointp.png",
-      "photos": [
-        "",
-        "",
-        ""
-      ]
     },
     {
       "slug": "capalliance-2021",
@@ -215,11 +201,6 @@
       ],
       "impact": "Gestion d'un réseau de 87 écrans en temps réel à l'échelle nationale.",
       "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/capalliance.png",
-      "photos": [
-        "",
-        "",
-        ""
-      ]
     },
     {
       "slug": "groupeup-2020",
@@ -242,11 +223,6 @@
       ],
       "impact": "Première expérience en entreprise nationale — contribution à la refonte d'une marque historique.",
       "logo": "https://nathangomeswork.github.io/Portfolio/assets/images/logos/groupeup.png",
-      "photos": [
-        "",
-        "",
-        ""
-      ]
     }
   ],
   "projets": [
